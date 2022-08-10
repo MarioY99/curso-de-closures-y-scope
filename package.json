@@ -1,0 +1,20 @@
+{
+  "name": "curso-de-closures-y-scope",
+  "version": "1.0.0",
+  "description": "Acá aplico lo aprendido en el curso de Closures y Scope de JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarioY99/curso-de-closures-y-scope.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarioY99/curso-de-closures-y-scope/issues"
+  },
+  "homepage": "https://github.com/MarioY99/curso-de-closures-y-scope#readme"
+}
